@@ -1,9 +1,10 @@
 body {
-  background: linear-gradient(to bottom right, #ffe6f0, #ffc0cb);
+  background: linear-gradient(to bottom right, #f5f0e1, #f3e5d0);
   font-family: "Poppins", sans-serif;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
+  padding-top: 50px;
   height: 100vh;
   margin: 0;
 }
